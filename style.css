@@ -264,8 +264,7 @@ footer {
 }
 
 .space {
-    height: 1rem;
-    backgroung-color: white;
+    height: 2rem;
 }
 
 @media only screen and (max-width: 750px) {
@@ -326,6 +325,7 @@ footer {
     }
 
 }
+
 
 
 
