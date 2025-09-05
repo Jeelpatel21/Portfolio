@@ -264,7 +264,7 @@ footer {
 }
 
 .space {
-    height: 0.5rem;
+    height: 30px;
 }
 
 @media only screen and (max-width: 750px) {
@@ -325,6 +325,7 @@ footer {
     }
 
 }
+
 
 
 
