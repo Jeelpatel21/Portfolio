@@ -180,6 +180,14 @@ a {
     transition: 0.3s all ease-in-out;
 }
 
+.proj-link {
+    color: var(--highlight2);
+    border-radius: 2rem;
+    padding: 0.1rem 0.5rem;
+    border: 1px solid var(--highlight2);
+    margin: 0.5rem;
+}
+
 .con {
     align-content: center;
     background-color: rgba(255, 255, 255, 0.1);
@@ -321,6 +329,7 @@ footer {
     }
 
 }
+
 
 
 
